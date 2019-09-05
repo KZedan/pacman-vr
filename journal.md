@@ -1,7 +1,6 @@
 Day 1 : 
-Decided on augmented reality children's book app running on unity with vuforia AR package
-Built simple augmented reality app of  3d polygon characters appearing when image is tracked by mobile phone camera
-
+-Decided on augmented reality children's book app running on unity with vuforia AR package
+-Built simple augmented reality app of  3d polygon characters appearing when image is tracked by mobile phone camera
 -Received feedback from Alice on project: worries that unity projects are hard to debug and that there might not be enough 
 manual programming. She also felt our project didn't have a clear enough end-goal
 
@@ -15,6 +14,7 @@ Day 2 :
 -maze and move-by-looking merged
 -attempted to deploy to android phone : built , ran and displayed well but did not move
 -retro decided priorities
+
 Day 3:
 -beginning of day wrote down user stories on trello and decided priorities, ate marvin's late donuts
 -kay had developed  golf balls that disappear on touch and trump enemy that chases player overnight
@@ -36,12 +36,14 @@ well
 alter workflow , e.g. after developing a feature, make sure to pull the latest master then add your changes before trying 
 to pull request and merge your branch to tryand minimise time-costing merge conflict resolutions
 -retro decided priorities for tomorrow
+
 Day 4:
 -Kay fixed display issue on android and added random sounds to the trump enemies
 -Ian wrote a score counter and dropped down lay out of pacman golfballs, but his unity became unstable
 -Kareem developed start scene , jamie helped with the clicking and scene transition
 -jamie and kareem started on the pause menu 
 -marvin started sounds and portal graphic and life system
+
 -IMPORTANT: much of our afternoon was eaten up trying to resolve merge conflicts and trying to quarantine instability in 
 the versions. Agreed that our workflow needs to change drastically. branching and merging represents too big of a time risk.
 we agreed that the work flow should be: 1. pairs/individuals explore and develop changes on their own computer. when they are
