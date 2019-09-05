@@ -42,7 +42,12 @@ Day 4:
 -Kareem developed start scene , jamie helped with the clicking and scene transition
 -jamie and kareem started on the pause menu 
 -marvin started sounds and portal graphic and life system
--IMPORTANT: much of our afternoon was eaten up trying to resolve merge conflicts and trying to quarantine instability in the versions. Agreed that our workflow needs to change drastically. branching and merging represents too big of a time risk.
+-IMPORTANT: much of our afternoon was eaten up trying to resolve merge conflicts and trying to quarantine instability in 
+the versions. Agreed that our workflow needs to change drastically. branching and merging represents too big of a time risk.
 we agreed that the work flow should be: 1. pairs/individuals explore and develop changes on their own computer. when they are
 confident they've built a feature well which tests well on their own computer, they record the steps they needed to do 
-to build the feature and redo that steps on a designated safe , deployment laptop and if it deploys successfully, push to master. merge conflicts and unity instability are eating up too much of our time. We might even need to rebuild the project from scratch and quickly repeat all the steps of the things we've already worked out. the steps that would be very time consuming even if the steps are fully understoof would be rebuilding the maze and rebuilding ball pattern, but perhaps since those are gameobjects they can be transferred or imported without risking transferring the instability.
+to build the feature and redo that steps on a designated safe , deployment laptop and if it deploys successfully, push
+to master. merge conflicts and unity instability are eating up too much of our time. We might even need to rebuild the
+project from scratch and quickly repeat all the steps of the things we've already worked out. the steps that would be 
+very time consuming even if the steps are fully understoof would be rebuilding the maze and rebuilding ball pattern, but
+perhaps since those are gameobjects they can be transferred or imported without risking transferring the instability.
