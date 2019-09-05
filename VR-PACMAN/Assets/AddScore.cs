@@ -8,6 +8,8 @@ public class AddScore : MonoBehaviour
     { 
         Destroy(this.gameObject);
         SumScore.Add(10);
+        SumScore.SaveHighScore();
+        
     }
 }
 
