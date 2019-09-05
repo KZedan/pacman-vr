@@ -1,6 +1,6 @@
 Day 1 : 
--Decided on augmented reality children's book app running on unity with vuforia AR package
--Built simple augmented reality app of  3d polygon characters appearing when image is tracked by mobile phone camera
+Decided on augmented reality children's book app running on unity with vuforia AR package
+Built simple augmented reality app of  3d polygon characters appearing when image is tracked by mobile phone camera
 
 -Received feedback from Alice on project: worries that unity projects are hard to debug and that there might not be enough 
 manual programming. She also felt our project didn't have a clear enough end-goal
